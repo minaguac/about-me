@@ -26,7 +26,7 @@ struct ContentView: View {
                 }
                 
                 HStack(spacing: 30.0) {
-                    Text("Mina Gwak")
+                    Text("Minaw Gwak")
                         .font(.title)
                         .fontWeight(.bold)
                 }
